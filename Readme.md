@@ -8,7 +8,7 @@ He añadido un cambio que pasaré a explicar dentro de las instrucciones del jue
 
 Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans. 
 
-![enter image description here](Images/IconoJava.jpg)
+![enter image description here](Images/IconoJava.png)
 
 
 ![enter image description here](Images/IconoNetbeans.png)
