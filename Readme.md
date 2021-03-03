@@ -1,6 +1,6 @@
 ># Readme 7Machos
 >## Bienvenidos al mundo de 7Machos     
-<p alingn ="center">
+<p align ="center">
  <image src="Images/IconoJuego.png"></image>
  </p>
 
