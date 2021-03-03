@@ -9,7 +9,9 @@ He añadido un cambio que pasaré a explicar dentro de las instrucciones del jue
 
 Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
 
-<center><Images/IconoJavaNetbeans.png></center>
+<p align ="center">
+ <image src="Images/IconoJavaNetbeans.png"></image>
+ </p>
  ### 1. Instalación
  Para comenzar deberemos descargarnos el directorio donde se encuentran los archivos del programa. 
  Para ello debemos ingresar la dirección de GitHub.
