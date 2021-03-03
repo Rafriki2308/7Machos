@@ -24,11 +24,13 @@ Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
  </p>
  
 
-Solo hay que descargar el paquete de los archivos y descomprimirlos en la misma carpeta.
+Solo hay que descargar el paquete de los archivos y descomprimir la carpeta. Solo hay que descomprimir el contenido del directorio Juego dentro del directorio donde deseas almacenar el juego.
 
 ### 2. Ejecución
 
 Para que se pueda ejecutar el juego, puesto que nuestros conocimientos no llegan, todavía, a la realización de archivos ejecutables en el sistema operativo, es necesario utilizar la consola de comandos de Windows para compilar los archivos y poder ejecutarlos.
+
+Para ello basta con pulsar el boton de inicio de windows y escribir sobre el "cmd", con ello aparecerá un menu donde ofrecera la 
 
 Para ello una vez en la consola de comandos, debemos ejecutar los siguientes comandos:
 
