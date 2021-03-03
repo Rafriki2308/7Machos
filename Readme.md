@@ -13,12 +13,14 @@ Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
  <image src="Images/IconoJavaNetbeans.png"></image>
  </p>
 ### 1. Instalación.
+
  Para comenzar deberemos descargarnos el directorio donde se encuentran los archivos del programa. 
  Para ello debemos ingresar la dirección de GitHub.
 
 Solo hay que descargar el paquete de los archivos y descomprimirlos en la misma carpeta.
 
 ### 2. Ejecución
+
 Para que se pueda ejecutar el juego, puesto que nuestros conocimientos no llegan, todavía, a la realización de archivos ejecutables en el sistema operativo, es necesario utilizar la consola de comandos de Windows para compilar los archivos y poder ejecutarlos.
 
 Para ello una vez en la consola de comandos, debemos ejecutar los siguientes comandos:
