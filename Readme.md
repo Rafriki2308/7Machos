@@ -54,15 +54,28 @@ Ahora a disfrutarlo.
 Cuando ejecutemos el programa se iniciara con el jugador activo, y el jugador al que se esta apuntando.
 La idea es que un jugador esta apuntando la pistola al siguiente jugador. Cuando se dispara la pistola pasa al siguiente jugador, y este apunta al siguiente, y así sucesivamente, o hasta que un jugador muere. Es un juego para seis jugadores, cuando acabamos la ronda, se reinicia y vuelta a comenzar.
 
+<p align ="center">
+ <image src="Images/MenuJuego.png"></image>
+ </p>
+
 El jugador puede realizar varias cosas:
 
     1- Seleccionar Pistola.
  
  Esta selección es obligatoria, obviamente es necesario apuntar con un pistola.
+ 
+ <p align ="center">
+ <image src="Images/Menu2Juego.png"></image>
+ </p>
    
 
     2- Mirar Posiciones
  Esta opción nos permite ver la posición de la bala en el tambor de la pistola, con respecto al cañón.
+ 
+ 
+ <p align ="center">
+ <image src="Images/Menu3Juego.png"></image>
+ </p>
 
     3- Girar Cilindro
 Esta opción, como su nombre indica gira el tambor, para varia la posición de la bala con respecto al cañón. 
@@ -79,6 +92,10 @@ Sale directamente del juego.
 ### 3 . FAQ
 
 Javac no se reconoce como un programa externo o interno, programa o archivo.
+
+<p align ="center">
+ <image src="Images/fallo.png"></image>
+ </p>
 
  
 
