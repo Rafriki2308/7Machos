@@ -8,10 +8,10 @@ He añadido un cambio que pasaré a explicar dentro de las instrucciones del jue
 
 Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans. 
 
-![enter image description here](https://i.blogs.es/6091fa/java/450_1000.jpg)
+![enter image description here](Images/IconoJava.jpg)
 
 
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/245px-Apache_NetBeans_Logo.svg.png)
+![enter image description here](Images/IconoNetbeans.png)
  ### 1. Instalación
  Para comenzar deberemos descargarnos el directorio donde se encuentran los archivos del programa. 
  Para ello debemos ingresar la dirección de GitHub.
