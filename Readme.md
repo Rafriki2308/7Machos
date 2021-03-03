@@ -30,6 +30,11 @@ Solo hay que descargar el paquete de los archivos y descomprimir la carpeta. Sol
 
 Para que se pueda ejecutar el juego, puesto que nuestros conocimientos no llegan, todavía, a la realización de archivos ejecutables en el sistema operativo, es necesario utilizar la consola de comandos de Windows para compilar los archivos y poder ejecutarlos.
 
+<p align ="center">
+ <image src="Images/cmd.png"></image>
+ </p>
+ 
+
 Para ello basta con pulsar el boton de inicio de windows y escribir sobre el "cmd", con ello aparecerá un menu donde ofrecera la 
 
 Para ello una vez en la consola de comandos, debemos ejecutar los siguientes comandos:
