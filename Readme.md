@@ -12,6 +12,7 @@ Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
 <p align ="center">
  <image src="Images/IconoJavaNetbeans.png"></image>
  </p>
+ 
 ### 1. Instalación.
 
  Para comenzar deberemos descargarnos el directorio donde se encuentran los archivos del programa. 
