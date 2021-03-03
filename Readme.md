@@ -74,7 +74,7 @@ El jugador puede realizar varias cosas:
  
  
  <p align ="center">
- <image src="Images/Menu3Juego.png"></image>
+ <image src="Images/menu3Juego.png"></image>
  </p>
 
     3- Girar Cilindro
