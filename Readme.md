@@ -15,7 +15,7 @@ Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
  
 ### 1. Instalación.
 
- Para comenzar deberemos descargarnos el directorio donde se encuentran los archivos del programa. 
+ Para comenzar deberemos introducir el enlace ofrecido en el navegador. Cuando entramos en el proyecto correcto dentro de Github, solo tenemos que seleccionar  
  Para ello debemos ingresar la dirección de GitHub.
 
 Solo hay que descargar el paquete de los archivos y descomprimirlos en la misma carpeta.
