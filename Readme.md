@@ -105,15 +105,22 @@ Paso 4: Una vez hecho esto, vas a ir directo a la interfaz gráfica y buscar “
 Paso 5: Dentro de las opciones que te aparecen aquí, vas a proceder a buscar una que diga  si tienes Windows 7 “Configuración avanzada del sistema” y le daremos clic luego a “Variables del entorno”.
 
 <p align ="center">
- <image src="Images/entornovariable.jpg"></image>
+ <image src="Images/entornovariable.png"></image>
  </p>
 
 
 Paso 6: Se abrirá una ventana con varios códigos o variables, y vas a darle clic a la fila que diga “Path” y presionaras “Editar”.
 
+<p align ="center">
+ <image src="Images/entornovariable2.png"></image>
+ </p>
  
 
 Paso 7: Una vez aquí, vas a proceder a pegar la ruta que habías copiado en la pestaña de comandos en el campo del valor de la variable.
+
+<p align ="center">
+ <image src="Images/path.png"></image>
+ </p>
 
  
 
