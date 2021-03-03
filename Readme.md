@@ -12,11 +12,17 @@ Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
 <p align ="center">
  <image src="Images/IconoJavaNetbeans.png"></image>
  </p>
+
  
 ### 1. Instalación.
 
  Para comenzar deberemos introducir el enlace ofrecido en el navegador. Cuando entramos en el proyecto correcto dentro de Github, solo tenemos que seleccionar  
- Para ello debemos ingresar la dirección de GitHub.
+ Para ello debemos ingresar la dirección de GitHub. Una vez dentro de la página del proyecto solo tenemos que descargarnos el paquete con el proyecto. Esto se hace en la sección Code, dentro del menú que se despliega seleccionamos Download y guardamos el archivo zip.
+ 
+ <p align ="center">
+ <image src="Images/Download.png"></image>
+ </p>
+ 
 
 Solo hay que descargar el paquete de los archivos y descomprimirlos en la misma carpeta.
 
