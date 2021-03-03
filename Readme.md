@@ -104,7 +104,10 @@ Paso 4: Una vez hecho esto, vas a ir directo a la interfaz gráfica y buscar “
 
 Paso 5: Dentro de las opciones que te aparecen aquí, vas a proceder a buscar una que diga  si tienes Windows 7 “Configuración avanzada del sistema” y le daremos clic luego a “Variables del entorno”.
 
- 
+<p align ="center">
+ <image src="Images/cmd.png"></image>
+ </p>
+
 
 Paso 6: Se abrirá una ventana con varios códigos o variables, y vas a darle clic a la fila que diga “Path” y presionaras “Editar”.
 
