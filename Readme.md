@@ -1,7 +1,7 @@
 ># Readme 7Machos
 >## Bienvenidos al mundo de 7Machos     
 <p alingn ="center">
-![enter image description here](Images/IconoJuego.png)
+ <image src="Images/IconoJuego.png"></image>
  </p>
 
 Siete machos es un juego basado en la película homónima de Mario Moreno "Cantinflas". En dicha película existe un escena en la cual "Cantinflas", junto con un malo malísimo se retan a un duelo a ruleta rusa, por el amor de una mujer (que anticuado). 
