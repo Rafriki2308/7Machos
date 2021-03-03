@@ -1,14 +1,14 @@
 ># Readme 7Machos
 >## Bienvenidos al mundo de 7Machos     
 
-![enter image description here](Images/Icono.png)
+![enter image description here](Images/IconoJuego.png)
 
 Siete machos es un juego basado en la película homónima de Mario Moreno "Cantinflas". En dicha película existe un escena en la cual "Cantinflas", junto con un malo malísimo se retan a un duelo a ruleta rusa, por el amor de una mujer (que anticuado). 
 He añadido un cambio que pasaré a explicar dentro de las instrucciones del juego. Espero que disfrutéis el juego tanto como yo he disfrutado desarrollándolo.
 
 Lo he desarrollado en lenguaje JAVA con el entorno de desarrollo NetBeans.
 
-![enter image description here](Images/IconoJavaNetbeans.png)
+<center>![enter image description here](Images/IconoJavaNetbeans.png)</center>
  ### 1. Instalación
  Para comenzar deberemos descargarnos el directorio donde se encuentran los archivos del programa. 
  Para ello debemos ingresar la dirección de GitHub.
